@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seoyoung-dev
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT
+- 🌱 I’m currently learning HTML/CSS/Javascript
 
 <!---
 seoyoung-dev/seoyoung-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
