@@ -1,4 +1,4 @@
-👋 Hi, I’m @seoyoung-dev
+👋 Hi, I’m @seoyoung-dev <br>
 🌱 I’m currently learning HTML/CSS/Javascript
 
 <!---
