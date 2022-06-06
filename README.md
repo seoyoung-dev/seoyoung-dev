@@ -15,16 +15,21 @@
   <img src="https://img.shields.io/badge/Javascript-f7e01b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
 <br>
 <img src="https://img.shields.io/badge/React-62dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/-Styled--Components-db7192?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/-Git-f64e27?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
+
 </p>
 <br>
 <p align="center">Used at least once...</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Typescript-2f73bf?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-SCSS-cc6599?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-036d02?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  
+  
 </p>
 <!-- <br>
 <br>
